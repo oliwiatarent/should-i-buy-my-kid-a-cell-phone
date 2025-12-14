@@ -1,0 +1,2 @@
+clipspy==1.0.6
+customtkinter==5.2.2
